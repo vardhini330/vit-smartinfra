@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* prevent white flash by setting the base background early */
+html, body {
+  background-color: #0f172a;
+}
