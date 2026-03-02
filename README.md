@@ -178,7 +178,7 @@ The application is deployed using Replit.
 
 Live Deployment Link:
 
-[https://replit.com/@sriv99135/vit-smartinfra](https://replit.com/@sriv99135/vit-smartinfra)
+https://05c1d8ac-fefa-47a2-94c2-f042778b5d0e-00-fvvhtoe3h10a.sisko.replit.dev/
 
 The backend serves the frontend build files and handles API routes under `/api`.
 
@@ -186,10 +186,18 @@ The backend serves the frontend build files and handles API routes under `/api`.
 
 # 🔐 9. Default Super Admin Credentials
 
-```
 Email: superadmin@city.gov
 Password: SuperAdmin123!
-```
+
+For user 
+
+Email: you@gmail.com
+Password: vardhini
+
+For offical
+
+Email: siva@gmail.com
+Password: vardhini
 
 ⚠️ For demonstration purposes only.
 
@@ -234,13 +242,11 @@ Password: SuperAdmin123!
 
 Create `.env` file for production:
 
-```
+
 PORT=8000
 MONGODB_URI=your_mongodb_connection_string
 CORS_ORIGIN=your_frontend_url
-```
 
----
 
 # 🎓 14. Learning Outcomes
 
@@ -258,7 +264,9 @@ Through this project:
 
 # 👨‍💻 15. Developed By
 
-Sri V
+Sri Vardhini S R
+Sivabalan S
+Jolin A
 
 ---
 
