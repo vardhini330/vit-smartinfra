@@ -1,4 +1,4 @@
-# 🏙️ VIT SmartInfra  
+# 🏙️ SmartInfra  
 ### Smart Infrastructure Management System
 
 🔗 **Live Deployment:**  
