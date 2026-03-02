@@ -2,7 +2,7 @@
 ### Smart Infrastructure Management System
 
 🔗 **Live Deployment:**  
-https://replit.com/@sriv99135/vit-smartinfra
+https://05c1d8ac-fefa-47a2-94c2-f042778b5d0e-00-fvvhtoe3h10a.sisko.replit.dev/
 
 ---
 
