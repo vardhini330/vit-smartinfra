@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SmartInfra – Citizen-Integrated Smart City Infrastructure Management
 
 Two roles: **Officials** (admin) and **Citizens**. JWT + bcrypt auth, MongoDB backend, React + Tailwind frontend.
@@ -44,3 +45,6 @@ Open **http://localhost:5173**. The Vite dev server proxies `/api` to the backen
 - **Complaints:** Citizens submit; officials filter and update status. Submitting a complaint increments the asset’s `complaintCount` and updates priority.
 - **Analytics (official):** Total assets, by condition (pie), complaints, high-priority count, City Health Index `(Good/Total)×100`, pending complaints.
 - **Audit log:** Asset and complaint actions; visible on official dashboard.
+=======
+# vit-smartinfra
+>>>>>>> d5fd3be5487a5ba0f405f7df443440cc00498815
