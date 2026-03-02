@@ -8,7 +8,7 @@ https://05c1d8ac-fefa-47a2-94c2-f042778b5d0e-00-fvvhtoe3h10a.sisko.replit.dev/
 
 # 📌 1. Project Overview
 
-VIT SmartInfra is a full-stack web application developed to manage and monitor smart city infrastructure efficiently. The system enables administrators and government officials to manage assets, track complaints, monitor audits, and analyze system data through a centralized dashboard.
+SmartInfra is a full-stack web application developed to manage and monitor smart city infrastructure efficiently. The system enables administrators and government officials to manage assets, track complaints, monitor audits, and analyze system data through a centralized dashboard.
 
 This project demonstrates complete full-stack architecture using modern web technologies including:
 
@@ -39,7 +39,7 @@ There is a need for a digital system that:
 - Provides analytics and dashboards
 - Ensures secure role-based access
 
-VIT SmartInfra solves these challenges by providing a structured digital platform.
+SmartInfra solves these challenges by providing a structured digital platform.
 
 ---
 
