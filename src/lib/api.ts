@@ -15,10 +15,15 @@ async function request<T>(
     ...(token && { Authorization: `Bearer ${token}` }),
     ...options.headers,
   };
-  const res = await fetch(`${API_BASE}${path}`, { ...fetchOpts, headers });
-  const data = skipJson ? null : await res.json().catch(() => ({}));
-  if (!res.ok) throw new Error((data as { message?: string })?.message || res.statusText || 'Request failed');
-  return (data ?? {}) as T;
+  try {
+    const res = await fetch(`${API_BASE}${path}`, { ...fetchOpts, headers });
+    const data = skipJson ? null : await res.json().catch(() => ({}));
+    if (!res.ok) throw new Error((data as { message?: string })?.message || res.statusText || 'Request failed');
+    return (data ?? {}) as T;
+  } catch (error) {
+    console.error(`API Error on ${path}:`, error);
+    throw error;
+  }
 }
 
 export const api = {
