@@ -2,7 +2,7 @@
 ### Smart Infrastructure Management System
 
 🔗 **Live Deployment:**  
-https://05c1d8ac-fefa-47a2-94c2-f042778b5d0e-00-fvvhtoe3h10a.sisko.replit.dev/
+https://vit-smartinfra--sriv99135.replit.app
 
 ---
 
@@ -178,7 +178,7 @@ The application is deployed using Replit.
 
 Live Deployment Link:
 
-https://05c1d8ac-fefa-47a2-94c2-f042778b5d0e-00-fvvhtoe3h10a.sisko.replit.dev/
+https://vit-smartinfra--sriv99135.replit.app
 
 The backend serves the frontend build files and handles API routes under `/api`.
 
@@ -267,6 +267,7 @@ Through this project:
 Sri Vardhini S R
 Sivabalan S
 Jolin A
+Swathi S
 
 ---
 
